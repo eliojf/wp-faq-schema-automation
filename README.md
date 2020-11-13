@@ -1,0 +1,1 @@
+# wp-faq-schema-automation
